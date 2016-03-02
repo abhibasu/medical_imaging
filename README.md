@@ -1,5 +1,5 @@
 # medical_imaging
-#### DICOM Image text mining
+#### DICOM Image Text Mining
 
 #####DICOM images contain 2 main sections:
 ######1. Text header : patient, study and other image characteristics
