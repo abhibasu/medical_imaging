@@ -1,5 +1,5 @@
 # medical_imaging
-#### DICOM Image Text Mining
+#### DICOM Image Text Mining using the Hive Connector for DICOM Image Files
 
 #####DICOM images contain 2 main sections:
 ######1. Text header : patient, study and other image characteristics
