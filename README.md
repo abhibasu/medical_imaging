@@ -14,3 +14,6 @@ I wanted to investigate how easy it would be to process a set of DICOM images an
 This work was an extension of our work using Apache SOLR on a Cloudera Hadoop Distribution to index, store and retrieve DICOM images, found here: https://software.intel.com/sites/default/files/managed/4c/21/Indexing%20DICOM%20Images%20on%20CDH%20v0%201%2000.pdf
 
 The reason for extending the cited work was indexing inside Apache SOLR was a black box and it was difficult to do what-if queries as well as be able to scale over billions of images with the flexibility to be able to correlate with additional data sources and datasets already present in Hive metastore.
+
+
+All code and other instructions coming here soon ....
